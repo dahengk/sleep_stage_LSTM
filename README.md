@@ -1,5 +1,7 @@
 # sleep_stage_LSTM
 
+This was for a school project it which I made a basic LSTM model to predict sleep_labels using the following dataset:
+
 DataSet:https://physionet.org/content/sleep-accel/1.0.0/
 
 Walch, Olivia. "Motion and heart rate from a wrist-worn wearable and labeled sleep from polysomnography" (version 1.0.0). PhysioNet (2019). https://doi.org/10.13026/hmhs-py35.
